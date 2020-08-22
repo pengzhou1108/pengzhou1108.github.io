@@ -11,9 +11,9 @@ title                    : "Peng Zhou"
 title_separator          : "-"
 name                     : &name "Peng Zhou"
 description              : &description "PhD candidate at University of Maryland, College Park"
-url                      : https://pengzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pengzhou1108.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pengzhou1108.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Peng Zhou"
-  avatar           : "profile.png"
+  avatar           : "Peng.jpg"
   bio              : "PhD candidate at University of Maryland"
   location         : "College Park, MD, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W0iPYdUAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Peng_Zhou46"
+  email            :  "pengzhou@umd.edu"
+  researchgate     :  "Peng_Zhou46"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pengzhou1108"
+  github           : "pengzhou1108"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/peng-zhou-1a1bbab0
+  linkedin         : "https://www.linkedin.com/in/peng-zhou-1a1bbab0"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/paulzhou1108"
+  twitter          : "paulzhou1108"
   vine             :
   weibo            :
   xing             :
