@@ -1,7 +1,7 @@
 ---
 title: "Occlusion-Adaptive Deep Network for Robust Facial Expression Recognition"
 collection: publications
-permalink: /publications/
+permalink: /publications/Occlusion
 venue: "INTERNATIONAL JOINT CONFERENCE ON
 BIOMETRICS (IJCB 2020)"
 citation: 'Ding Hui, <b>Peng Zhou</b> and Rama Chellappa. <i>INTERNATIONAL JOINT CONFERENCE ON
