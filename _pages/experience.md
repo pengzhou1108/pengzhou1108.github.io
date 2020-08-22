@@ -11,26 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in China, Huazhong University of Science and Technology, 2015
-* Ph.D in Electrical and Computer Engineering, University of Maryland, College Park, 2020 (expected)
+
+<p align="left">
+  <img src="https://hyxu2006.github.io/files/umd.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), Huazhong University of Science and Technology
+</p>
+
+<p align="left">
+  <img src="https://hyxu2006.github.io/files/hust.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
+</p>
 
 Work experience
 ======
-* Summer 2020: Research Intern
-  * Salesforce
-  * Topic: Speech driven talking face generation
-  * Mentors: Ran Xu, Zeyuan Chen
 
-* Summer 2019: Research Intern
-  * Adobe research
-  * Topic: High resolution boundary refinement
-  * Mentors: Brian Price, Scott Cohen, Gregg Wilensky
+<p align="left">
+  <img src="https://pengzhou.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Research Intern</b>, summer 2020, Salesforce Research.
+</p>
   
- * Summer 2018: Research Intern
-  * Adobe research
-  * Topic: Incremental learning
-  * Mentors: Long Mai, Jianming Zhang, Ning Xu
+<p align="left">
+  <img src="https://pengzhou.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Research Intern</b>, summer 2019, Adobe Research.
+</p>
 
+<p align="left">
+  <img src="https://pengzhou.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Research Intern</b>, summer 2018, Adobe Research.
+</p>
 
 Academic Services
 ======

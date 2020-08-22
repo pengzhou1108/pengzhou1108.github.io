@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate at University of Maryland"
   location         : "College Park, MD, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W0iPYdUAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Peng_Zhou46"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100010438712631"
+  facebook         :
   foursquare       :
   github           : "https://github.com/pengzhou1108"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/public-profile/in/peng-zhou-1a1bbab0?challengeId=AQHwRKlHrPRSAQAAAXQXzhwqh7SofQPn-o6jcUOZmc9zBYOAIjCInZzTLElpw7Qi5MT3bPHhU5-yx956AWiraC_SoATUCCj3Ig&submissionId=13ca89b3-3cb0-2d16-01bd-22bf7fe00a2a"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/peng-zhou-1a1bbab0
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
