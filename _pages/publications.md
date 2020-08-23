@@ -27,7 +27,7 @@ Ding Hui, <b>Peng Zhou</b> and Rama Chellappa. In International Joint Conference
 
 <b>Inclusive GAN: Improving Data and Minority Coverage in Generative Models</b>
 
-Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis, and Mario Fritz. In Proceedings of European Conference on Computer Vision. <b>ECCV 2020</b>. [PDF](https://arxiv.org/pdf/2004.03355.pdf) [Code](https://github.com/ningyu1991/InclusiveGAN)
+Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. In Proceedings of European Conference on Computer Vision. <b>ECCV 2020</b>. [PDF](https://arxiv.org/pdf/2004.03355.pdf) [Code](https://github.com/ningyu1991/InclusiveGAN)
 
 <b>DeepStrip: High Resolution Boundary Refinement</b>
 
@@ -43,7 +43,7 @@ Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis, and Mario Fritz.
 
 <b>Two-stream Neural Networks for Tampered Face Detection</b>
 
-<b>Peng Zhou $ * $</b>, Xintong Han$ * $, Vlad Morariu, and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963)
+<b>Peng Zhou $ * $</b>, Xintong Han$ * $, Vlad Morariu and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963)
 
 <b>Demonstration of M-ary Encoding/Decoding Using Visible-Light Bessel Beams Carrying Orbital Angular Momentum (OAM) For Free-Space Obstruction-Free Optical Communications</b>
 

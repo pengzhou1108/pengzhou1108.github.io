@@ -4,6 +4,12 @@ permalink: /experience/
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.experience reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Education
 ======
 
@@ -14,7 +20,7 @@ Education
 
 <p align="left">
   <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 150px;"/> 
-<b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
+<b>B.E.</b>, 2015, Huazhong University of Science and Technology
 </p>
 
 Work Experience
