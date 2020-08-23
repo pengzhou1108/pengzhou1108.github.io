@@ -15,7 +15,7 @@ Education
 </p>
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 130px;"/> 
+  <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 140px;"/> 
 <b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
 </p>
 
@@ -23,7 +23,7 @@ Work Experience
 ======
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 120px; width: 100px;"/> 
+  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 120px; width: 120px;"/> 
 <b>Research Intern</b>, summer 2020, Salesforce Research.
 </p>
   
