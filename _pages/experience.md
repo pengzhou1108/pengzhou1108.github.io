@@ -11,7 +11,7 @@ Education
 
 <p align="left">
   <img src="https://pengzhou1108.github.io/files/umd.png?raw=true" alt="Photo" style="height: 150px;"/> 
-<b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), University of Maryland, College Park
+<b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), University of Maryland
 </p>
 
 <p align="left">
@@ -19,11 +19,11 @@ Education
 <b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
 </p>
 
-Work experience
+Work Experience
 ======
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 150px; width: 90px;"/> 
 <b>Research Intern</b>, summer 2020, Salesforce Research.
 </p>
   
