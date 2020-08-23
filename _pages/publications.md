@@ -17,7 +17,7 @@ author_profile: true
 Conference & Journal Publications
 ======
 
-<b>$M^2$KD:Multi-model and Multi-level Knowledge Distillation for Incremental Learning</b>
+<b>$\boldsymbol M^2$KD: Multi-model and Multi-level Knowledge Distillation for Incremental Learning</b>
 
 <b>Peng Zhou</b>, Long Mai, Jianming Zhang, Ning Xu, Zuxuan Wu and Larry Davis. In British Machine Vision Conference. <b>BMVC 2020</b>. [PDF](https://arxiv.org/pdf/1904.01769.pdf)
 
@@ -43,7 +43,7 @@ Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis, and Mario Fritz.
 
 <b>Two-stream Neural Networks for Tampered Face Detection</b>
 
-<b>Peng Zhou $ * $ </b>, Xintong Han $ * $, Vlad Morariu, and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963)
+<b>Peng Zhou $ * $</b>, Xintong Han$ * $, Vlad Morariu, and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963)
 
 <b>Demonstration of M-ary Encoding/Decoding Using Visible-Light Bessel Beams Carrying Orbital Angular Momentum (OAM) For Free-Space Obstruction-Free Optical Communications</b>
 

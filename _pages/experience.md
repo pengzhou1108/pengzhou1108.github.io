@@ -4,7 +4,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-
 Education
 ======
 
