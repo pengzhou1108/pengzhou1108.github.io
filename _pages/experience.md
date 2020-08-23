@@ -10,12 +10,12 @@ Education
 ======
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/umd.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/umd.png?raw=true" alt="Photo" style="height: 120px;"/> 
 <b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), University of Maryland
 </p>
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 130px;"/> 
 <b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
 </p>
 
@@ -23,17 +23,17 @@ Work Experience
 ======
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 150px; width: 90px;"/> 
+  <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 120px; width: 100px;"/> 
 <b>Research Intern</b>, summer 2020, Salesforce Research.
 </p>
   
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 120px;"/> 
 <b>Research Intern</b>, summer 2019, Adobe Research.
 </p>
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/adobe.png?raw=true" alt="Photo" style="height: 120px;"/> 
 <b>Research Intern</b>, summer 2018, Adobe Research.
 </p>
 
