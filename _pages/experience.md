@@ -11,11 +11,11 @@ Education
 
 <p align="left">
   <img src="https://pengzhou1108.github.io/files/umd.png?raw=true" alt="Photo" style="height: 150px;"/> 
-<b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), Huazhong University of Science and Technology
+<b>Ph.D in Electrical and Computer Engineering</b>, 2020 (expected), University of Maryland, College Park
 </p>
 
 <p align="left">
-  <img src="https://pengzhou1108.github.io/files/hust.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://pengzhou1108.github.io/files/hust.jpeg?raw=true" alt="Photo" style="height: 150px;"/> 
 <b>Bachelor of Engineering</b>, 2015, Huazhong University of Science and Technology
 </p>
 
