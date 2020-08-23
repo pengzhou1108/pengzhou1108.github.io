@@ -45,4 +45,4 @@ Academic Services
 ======
 * Conference reviewer: AAAI 2021, BMVC 2020, IJCAI 2020, AAAI 2020, CVPR 2019
 * Journal reviewer: TNNLS (2020)
-* Workshop Committee: CVPR Media Forensics 2019, CVPR Media Forensics 2020
+* Workshop committee: CVPR Media Forensics 2019, CVPR Media Forensics 2020
