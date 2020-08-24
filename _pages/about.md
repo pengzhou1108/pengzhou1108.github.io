@@ -21,8 +21,8 @@ I am a PhD candidate at the University of Maryland, advised by Prof. Larry Davis
 
 * Apirl - July, 2020. Research Intern at Salesforce Research.
 
-* February, 2020. Our paper about high resolution boundary refinement accepted at CVPR 2020.
+* February, 2020. Our paper about high resolution boundary refinement got accepted at CVPR 2020.
 
-* January, 2020. Our paper about generic manipulation segmentation accepted at AAAI 2020.
+* January, 2020. Our paper about generic manipulation segmentation got accepted at AAAI 2020.
 
 
