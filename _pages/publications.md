@@ -43,7 +43,7 @@ Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. 
 
 <b>Two-stream Neural Networks for Tampered Face Detection</b>
 
-<b>Peng Zhou$ * $</b>, Xintong Han$ * $, Vlad Morariu and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963) [Dataset](www.umiacs.umd.edu/~morariu/medifor/umd_tampered_faces_20170914.tar.gz)
+<b>Peng Zhou$ * $</b>, Xintong Han$ * $, Vlad Morariu and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop. <b>CVPRW 2017</b>. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8014963) [Dataset](https://drive.google.com/file/d/1c86II5nARad3hDOiua8R_oXHA6iZJ6h6/view?usp=sharing)
 
 <b>Demonstration of M-ary Encoding/Decoding Using Visible-Light Bessel Beams Carrying Orbital Angular Momentum (OAM) For Free-Space Obstruction-Free Optical Communications</b>
 
