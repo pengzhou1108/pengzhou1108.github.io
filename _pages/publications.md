@@ -35,7 +35,7 @@ Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. 
 
 <b>Generate, Segment and Refine: Towards Generic Manipulation Segmentation</b>
 
-<b>Peng Zhou</b> Bor-Chun Chen, Xintong Han, Mahyar Najibi, Abhinav Shrivastava, Ser-Nam Lim and Larry Davis. In Thirty-Fourth AAAI Conference on Artificial Intelligence. <b>AAAI 2020</b>. [PDF](https://arxiv.org/pdf/1811.09729.pdf) [Code](https://github.com/pengzhou1108/GSRNet)
+<b>Peng Zhou</b>, Bor-Chun Chen, Xintong Han, Mahyar Najibi, Abhinav Shrivastava, Ser-Nam Lim and Larry Davis. In Thirty-Fourth AAAI Conference on Artificial Intelligence. <b>AAAI 2020</b>. [PDF](https://arxiv.org/pdf/1811.09729.pdf) [Code](https://github.com/pengzhou1108/GSRNet)
 
 <b>Learning Rich Features for Image Manipulation Detection</b>
 
