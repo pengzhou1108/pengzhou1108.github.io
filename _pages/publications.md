@@ -27,7 +27,7 @@ Ding Hui, <b>Peng Zhou</b> and Rama Chellappa. In International Joint Conference
 
 <b>Inclusive GAN: Improving Data and Minority Coverage in Generative Models</b>
 
-Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. In Proceedings of European Conference on Computer Vision. <b>ECCV 2020</b>. [PDF](https://arxiv.org/pdf/2004.03355.pdf) [Code](https://github.com/ningyu1991/InclusiveGAN)[Media Coverage](https://mp.weixin.qq.com/s/6CCWQY8d0NoHEuMqWEp2dw)
+Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. In Proceedings of European Conference on Computer Vision. <b>ECCV 2020</b>. [PDF](https://arxiv.org/pdf/2004.03355.pdf) [Code](https://github.com/ningyu1991/InclusiveGAN) [Media Coverage](https://mp.weixin.qq.com/s/6CCWQY8d0NoHEuMqWEp2dw)
 
 <b>DeepStrip: High Resolution Boundary Refinement</b>
 
@@ -39,7 +39,7 @@ Ning Yu, Ke Li, <b>Peng Zhou</b>,  Jitendra Malik, Larry Davis and Mario Fritz. 
 
 <b>Learning Rich Features for Image Manipulation Detection</b>
 
-<b>Peng Zhou</b>, Xintong Han, Vlad Morariu and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2018</b>. [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf) [Code](https://github.com/pengzhou1108/RGB-N)[Media Coverage](https://www.bbc.com/news/technology-44601469)
+<b>Peng Zhou</b>, Xintong Han, Vlad Morariu and Larry Davis. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. <b>CVPR 2018</b>. [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf) [Code](https://github.com/pengzhou1108/RGB-N) [Media Coverage](https://www.bbc.com/news/technology-44601469)
 
 <b>Two-stream Neural Networks for Tampered Face Detection</b>
 
