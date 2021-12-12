@@ -16,7 +16,7 @@ author_profile: true
 
 Conference & Journal Publications
 ======
-<b>$\boldsymbol Deep Video Inpainting Detection</b>
+<b>Deep Video Inpainting Detection</b>
 
 <b>Peng Zhou</b>, Ning Yu, Zuxuan Wu, Larry S Davis, Abhinav Shrivastava and Ser-Nam Lim. In British Machine Vision Conference. <b>BMVC 2021</b>. [PDF](https://arxiv.org/pdf/2101.11080.pdf)
 
