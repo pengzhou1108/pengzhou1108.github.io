@@ -14,7 +14,7 @@ I am an Applied Scientist at Amazon Go. Prior to Amazon, I obtained my PhD at th
 
 
 # Recent News
-* March, 2021. Join Amazon Go as an Applied Scientist.
+* March, 2021. Joined Amazon Go as an Applied Scientist.
 
 * November, 2020. Passed my PhD defense exam.
 
