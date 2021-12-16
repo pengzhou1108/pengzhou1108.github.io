@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peng Zhou"
 title_separator          : "-"
 name                     : &name "Peng Zhou"
-description              : &description "PhD candidate at University of Maryland, College Park"
+description              : &description "Applied Scientist at Amazon"
 url                      : https://pengzhou1108.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pengzhou1108.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Peng Zhou"
   avatar           : "Peng.jpg"
-  bio              : "PhD candidate at University of Maryland"
-  location         : "College Park, MD, USA"
+  bio              : "Applied Scientist at Amazon"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W0iPYdUAAAAJ&hl=en"
