@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peng Zhou"
 title_separator          : "-"
 name                     : &name "Peng Zhou"
-description              : &description "Applied Scientist at Amazon"
+description              : &description "Senior Applied Scientist at Amazon"
 url                      : https://pengzhou1108.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pengzhou1108.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peng Zhou"
   avatar           : "Peng.jpg"
-  bio              : "Applied Scientist at Amazon"
+  bio              : "Senior Applied Scientist at Amazon"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
