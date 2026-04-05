@@ -15,7 +15,7 @@ Education
 
 <p align="left">
   <img src="https://pengzhou1108.github.io/files/umd.png?raw=true" alt="Photo" style="height: 120px;"/> 
-<b>Ph.D.</b>, 2020 (expected), University of Maryland
+<b>Ph.D.</b>, 2020, University of Maryland
 </p>
 
 <p align="left">
@@ -25,6 +25,10 @@ Education
 
 Work Experience
 ======
+<p align="left">
+  <img src="https://pengzhou1108.github.io/files/Amazon-logo.jpg?raw=true" alt="Photo" style="height: 120px; width: 120px;"/> 
+<b>Senior Applied Scientist</b>, 01/2021 - 04/2026, Amazon.
+</p>
 
 <p align="left">
   <img src="https://pengzhou1108.github.io/files/salesforce.png?raw=true" alt="Photo" style="height: 120px; width: 120px;"/> 
@@ -43,6 +47,6 @@ Work Experience
 
 Academic Services
 ======
-* Conference reviewer: AAAI 2021, BMVC 2020, IJCAI 2020, AAAI 2020, CVPR 2019
-* Journal reviewer: TNNLS (2020)
-* Workshop committee: CVPR Media Forensics 2019, CVPR Media Forensics 2020
+* Conference reviewer: ICML, BMVC, IJCAI, AAAI, CVPR, NeurIPS, ICLR, ECCV, ICCV
+* Journal reviewer: TNNLS 
+* Workshop committee: CVPR Media Forensics, CVPR Authenticity & Provenance in the Age of AI (APAI)
