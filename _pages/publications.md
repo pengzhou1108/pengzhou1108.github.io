@@ -16,6 +16,29 @@ author_profile: true
 
 Conference & Journal Publications
 ======
+<b>MV2MAE: Multi-View Video Masked Autoencoders</b>
+
+Ketul Shah, Robert Crandall, Jie Xu, <b>Peng Zhou</b>, Marian George, Mayank Bansal, and
+Rama Chellappa. In  <b>TMLR 2026</b>. [PDF](https://arxiv.org/pdf/2401.15900.pdf)
+
+<b>Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs</b>
+
+Junbo Li, <b>Peng Zhou</b>, Rui Meng, Meet P Vadera, Lihong Li, and Yang Li. In  <b>EACL findings 2026</b>. [PDF](https://aclanthology.org/2026.findings-eacl.328.pdf)
+
+<b>M-LLM Based Video Frame Selection for Efficient Video Understanding</b>
+
+Kai Hu, Feng Gao, Xiaohan Nie, <b>Peng Zhou</b>, Son Tran, Tal Neiman, Lingyun Wang, Mubarak
+Shah, Raffay Hamid, Bing Yin, and Trishul Chilimbi. In <b>CVPR 2025</b>. [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_M-LLM_Based_Video_Frame_Selection_for_Efficient_Video_Understanding_CVPR_2025_paper.pdf)
+
+<b>Learning to rank patches for unbiased image redundancy reduction</b>
+
+Yang Luo, Zhineng Chen, <b>Peng Zhou</b>, Yumeng Ma, Zhilong Ji, Jinfeng Bai, Zuxuan Wu, and
+Yu-Gang Jiang. In  <b>CVPR 2024</b>. [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)
+
+<b>Resolving task confusion in dynamic expansion architectures for class incremental learning</b>
+
+Bingchen Huang, Zhineng Chen, <b>Peng Zhou</b>, Jiayin Chen, and Zuxuan Wu. In <b>AAAI 2023</b>. [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/25170/24942)
+
 <b>Deep Video Inpainting Detection</b>
 
 <b>Peng Zhou</b>, Ning Yu, Zuxuan Wu, Larry S Davis, Abhinav Shrivastava and Ser-Nam Lim. In British Machine Vision Conference. <b>BMVC 2021</b>. [PDF](https://arxiv.org/pdf/2101.11080.pdf)
